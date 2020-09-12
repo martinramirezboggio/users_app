@@ -1,3 +1,3 @@
-* NodeJS and ReactJS app
+*NodeJS and ReactJS app
 App to display random users info using reactJS for the frontend and NodeJS for the server. Also to redux to manage the state.
 
